@@ -1,3 +1,9 @@
+SIMPLE MENTAL MODEL
+nano → edit file
+git add → stage changes
+git commit → save snapshot
+git push → upload to GitHub
+
 git add .        → stage changes
 git commit -m    → save snapshot
 git push         → upload to GitHub
