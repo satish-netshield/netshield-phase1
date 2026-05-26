@@ -31,10 +31,13 @@ docs/ - Notes and learning materials
 ```bash
 python3 scripts/system_info.py
 
+---
+
 ## New Features Added
 
 - SQLite database integration for incident storage
 - Automated SQL log analysis
 - Suspicious IP tracking and counting
-- Incident reporting using Python scripts
+- Incident reporting using Python scripts 
+
 
