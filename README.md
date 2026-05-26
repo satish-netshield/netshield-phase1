@@ -1,34 +1,32 @@
 # netshield-phase1
 
-# NetShield Phase 1 - Security Simulation Project
+# NetShield Phase 1 (Learning Project)
 
 ## Overview
-NetShield Phase 1 is a basic security monitoring and incident simulation system built using Python.
-It demonstrates how security events are generated, logged, and tracked in a structured environment.
+NetShield Phase 1 is a beginner-level Python project created to understand basic system monitoring, logging, and simple security event simulation.
 
-## Features
-- System information logging
-- Incident simulation (INFO / WARN / ALERT)
-- Timestamp-based event tracking
-- Log file generation for audit trail
-- Modular Python script structure
+This project is part of my learning journey in Linux, Python, and Git.
+
+---
+
+## What This Project Does
+- Collects basic system information
+- Simulates simple security events (INFO / WARN / ALERT)
+- Writes logs to files for tracking events
+- Demonstrates how incident-style logging works in a simple environment
+
+---
 
 ## Project Structure
-scripts/ - Python automation scripts
-logs/ - system and incident logs
-docs/ - documentation and workflow notes 
+
+scripts/ - Python scripts used for system info and incident simulation
+logs/ - Generated log files (system and incidents)
+docs/ - Notes and learning materials
+
+---
 
 ## How to Run
 
-1. Run system info script:
-   python3 scripts/system_info.py
-
-2. Run incident simulator:
-   python3 scripts/incident_simulator.py
-
-## Output
-- logs/system_info.log
-- logs/incidents.log
-
-## Purpose
-This project simulates a basic SOC (Security Operations Center) style logging system for learning cybersecurity workflows.
+### 1. Run system information script
+```bash
+python3 scripts/system_info.py
