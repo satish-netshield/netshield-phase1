@@ -27,9 +27,11 @@ docs/ - Notes and learning materials
 
 ## How to Run
 
-### 1. Run system information script
+### Run system information script
+
 ```bash
 python3 scripts/system_info.py
+```
 
 ---
 
@@ -41,6 +43,4 @@ python3 scripts/system_info.py
 - Incident reporting using Python scripts
 - SSH failed login detection
 - Brute-force style attack monitoring
-- Failed login risk classification 
-
-
+- Failed login risk classification
