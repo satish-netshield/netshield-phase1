@@ -1,0 +1,4 @@
+[2026-05-26 00:06:32] [INFO] System scan started
+[2026-05-26 00:06:33] [WARN] Multiple failed login attempts detected
+[2026-05-26 00:06:34] [ALERT] Suspicious IP detected: 192.168.1.100
+[2026-05-26 00:06:35] [INFO] Incident response triggered
