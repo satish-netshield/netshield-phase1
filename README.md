@@ -38,6 +38,9 @@ python3 scripts/system_info.py
 - SQLite database integration for incident storage
 - Automated SQL log analysis
 - Suspicious IP tracking and counting
-- Incident reporting using Python scripts 
+- Incident reporting using Python scripts
+- SSH failed login detection
+- Brute-force style attack monitoring
+- Failed login risk classification 
 
 
