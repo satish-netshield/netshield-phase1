@@ -10,4 +10,16 @@ docs → explain system (notes)
 our explanation and process info
 
 README → project summary (front page)
-what, how this is done and why is this being done 
+what, how this is done and why is this being done
+
+LOW RISK
+- minor event
+- unlikely immediate threat
+
+MEDIUM RISK
+- suspicious behavior
+- needs monitoring
+
+HIGH RISK
+- repeated or dangerous activity
+- possible attack 
