@@ -220,7 +220,7 @@ Planned features:
 
 ---
 
-# Author Notes
+# Notes
 
 This project was created as part of a structured cybersecurity learning journey focused on:
 
