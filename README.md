@@ -207,24 +207,10 @@ Planned features:
 - Incident Timeline Management
 - Enterprise Detection Workflows
 
-## Phase 3 — NetShield Automation
-
-Planned features:
-
-- Python Automation
-- Automated Alert Generation
-- Threat Correlation
-- Incident Enrichment
-- Simulated Remediation Workflows
-- Response Orchestration
-
 ---
 
 # Notes
 
 This project was created as part of a structured cybersecurity learning journey focused on:
 
-- Building first
-- Understanding second
 - Developing practical SOC-style workflows
-- Combining hands-on projects with cybersecurity theory and certifications
